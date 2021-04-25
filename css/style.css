@@ -66,18 +66,18 @@
     color: #aaaaaa;
 }
 .bottom-header__right ul li:first-child:active .first{
-    background: url('/image/icons/topic-icon.png') no-repeat;
+    background: url('../image/icons/topic-icon.png') no-repeat;
     background-position: 0% 50%;
     cursor: pointer;
 }
 .bottom-header__right ul li:first-child:hover .first{
-    background: url('/image/icons/topic-icon.png') no-repeat;
+    background: url('../image/icons/topic-icon.png') no-repeat;
     background-position: 0% 50%;
     color: black;
     cursor: pointer;
 }
 .bottom-header__right ul li:first-child .first{
-    background: url('/image/icons/topic-inactive-icon.png') no-repeat;
+    background: url('../image/icons/topic-inactive-icon.png') no-repeat;
     background-position: 0% 50%;
 }
 .second{
@@ -92,7 +92,7 @@
 }
 .sidebar-content ul li{
     /* background: url('image/icons/inactive-download-icon.png') no-repeat; */
-    background: url('/image/icons/inactive-download-icon.png') no-repeat;
+    background: url('../image/icons/inactive-download-icon.png') no-repeat;
     background-position: 90% 50%;
     cursor: pointer;
     font-size: 12px;
@@ -101,7 +101,7 @@
 }
 .sidebar-content ul li:hover,
 .sidebar-content ul li:active{
-    background: url('/image/icons/active-download-icon.png') no-repeat;
+    background: url('../image/icons/active-download-icon.png') no-repeat;
     background-color: white;
 
     background-position: 90% 50%;
@@ -134,17 +134,17 @@
 
 /* FOR MID CONTENT */
 .left__tab__top{
-    background: url('/image/corners/left-tab.png') no-repeat;
+    background: url('../image/corners/left-tab.png') no-repeat;
     text-align: center;
 }
 .right__tab__top{
-    background: url('/image/corners/right-tab.png') no-repeat;
+    background: url('../image/corners/right-tab.png') no-repeat;
     text-align: center;
 }
 
 .left__tab__bottom ul li{
     width: 114px;
-    background: url(/image/corners/inactive-tab.png) no-repeat;
+    background: url('../image/corners/inactive-tab.png') no-repeat;
     text-align: center;
     float: left;
     margin: 0 5px;
@@ -154,7 +154,7 @@
 
 .left__tab__bottom ul li :hover
 {
-    background: url(/image/corners/active-tab.png) no-repeat;
+    background: url('../image/corners/active-tab.png') no-repeat;
     width: 114px;
     text-align: center;
     float: left;
@@ -162,7 +162,7 @@
     color: white;
 }
 .left__tab__bottom ul li.tab-active{
-    background: url(/image/corners/active-tab.png) no-repeat;
+    background: url('../image/corners/active-tab.png') no-repeat;
 }
 .info-container span{
     font-size: 12px;
