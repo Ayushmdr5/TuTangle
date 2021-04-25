@@ -110,7 +110,7 @@
     width: 140px;
 }
 .sidebar-second-content ul li{
-    background: url('/image/icons/inactive-ham-icon.png') no-repeat;
+    background: url('../image/icons/inactive-ham-icon.png') no-repeat;
     background-position: 90% 50%;
     cursor: pointer;
     font-size: 12px;
@@ -120,7 +120,7 @@
 
 .sidebar-second-content ul li:hover,
 .sidebar-second-content ul li:active{
-    background: url('/image/icons/active-ham-icon.png') no-repeat;
+    background: url('../image/icons/active-ham-icon.png') no-repeat;
     background-color: white;
 
     background-position: 90% 50%;
