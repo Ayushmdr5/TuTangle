@@ -1,8 +1,4 @@
-/* structures ex float */
 
-/* .container{
-    width: 100%;
-} */
 .header__container{
     width: 100%;
 }
@@ -16,18 +12,15 @@
 }
 .header-content__area{
     margin: 0 auto;
-    width: 960px;
-    /* background-color: red; */
+    width: 938px;
 }
 .top-header__left{
-    /* background-color: rgb(253, 241, 241); */
     float: left;
 }
 .logo__container{
     float: left;
 }
 .top-header__right{
-    /* background-color: blue; */
     float: right;
 }
 
@@ -60,7 +53,6 @@
 }
 .search-icon{
     margin-left: 1px;
-    /* padding-top: 1px; */
     cursor: pointer;
 }
 .search-btn-container{
@@ -85,17 +77,16 @@
 }
 .content__container{
     margin: 43px auto 0 auto;
-    width: 960px;
+    width: 938px;
 }
 .left__content{
-    width: 190px;
+    width: 194px;
     float: left;
     font-weight: bold;
 }
 .mid__content{
     width: 518px;
-    margin: 0 26px;
-    /* background: rgb(218, 217, 217); */
+    margin: 0 24px;
     float: left;
 }
 .tab__container{
